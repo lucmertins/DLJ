@@ -1,2 +1,4 @@
 /Generic/target/
-/Generic/src/jupyter/IJava
+/Generic/src/main/jupyter/IJava
+/Generic/src/main/jupyter/buildModel
+/Generic/src/main/buildModel/mlpJava/mlp-0002.params
