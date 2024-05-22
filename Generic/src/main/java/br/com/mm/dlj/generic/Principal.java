@@ -8,7 +8,7 @@ import org.knowm.xchart.XYChart;
  *
  * @author mertins
  */
-public class Generic {
+public class Principal {
 
     private void grafico() {
         double[] xData = new double[]{0.0, 1.0, 2.0};
@@ -19,6 +19,6 @@ public class Generic {
     }
 
     public static void main(String[] args) {
-        new Generic().grafico();
+        new Principal().grafico();
     }
 }
